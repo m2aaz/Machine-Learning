@@ -1,0 +1,5 @@
+
+# To Exclude
+*.csv
+changelog.md
+LinReg.py
